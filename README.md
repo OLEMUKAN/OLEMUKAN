@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @OLEMUKAN
+- PORTFOLIO: [Olemukan](https://olemukan.github.io/portfolio)
 - 👀 I’m interested in learning to build software as a service
-- 🌱 I’m currently learning java and spring 
+- 🌱 I’m currently learning java and spring and react
 - 💞️ I’m looking to collaborate on any project that will help give more learning experience
 - 📫 You can reach me on OLEMUKAN4@GMAIL.COM, +256779196597
 
